@@ -1,5 +1,5 @@
 # AI Security
-Prompt injection, jailbreaking, and securing AI systems
+[One line description]
 
 ## What's covered
 - Coming soon

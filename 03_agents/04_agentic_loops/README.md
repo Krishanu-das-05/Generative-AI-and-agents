@@ -1,5 +1,5 @@
 # Agentic Loops
-ReAct, LATS, Reflexion, and other agent reasoning patterns
+[One line description]
 
 ## What's covered
 - Coming soon

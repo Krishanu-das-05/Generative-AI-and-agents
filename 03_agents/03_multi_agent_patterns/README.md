@@ -1,5 +1,5 @@
 # Multi-Agent Patterns
-Architectures for orchestrating multiple agents
+[One line description]
 
 ## What's covered
 - Coming soon

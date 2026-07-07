@@ -1,5 +1,5 @@
 # Hermes & Function Calling
-Function calling with Hermes models and structured outputs
+[One line description]
 
 ## What's covered
 - Coming soon

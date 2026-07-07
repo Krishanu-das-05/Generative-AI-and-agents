@@ -1,5 +1,5 @@
 # Production GenAI
-LLMOps, observability, AI security, and system design for production AI systems.
+LLMOps, observability, AI security, and system design.
 
 ## Topics
 | # | Topic | Status |

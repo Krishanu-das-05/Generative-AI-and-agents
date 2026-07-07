@@ -1,5 +1,5 @@
 # Embeddings
-Understanding and using text embeddings for semantic search
+[One line description]
 
 ## What's covered
 - Coming soon

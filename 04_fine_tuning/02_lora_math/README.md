@@ -1,5 +1,5 @@
 # LoRA Math
-The mathematics behind Low-Rank Adaptation
+[One line description]
 
 ## What's covered
 - Coming soon

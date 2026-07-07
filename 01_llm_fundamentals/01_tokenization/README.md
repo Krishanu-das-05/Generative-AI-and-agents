@@ -1,5 +1,5 @@
 # Tokenization
-Understanding how text is converted to tokens for LLM processing
+[One line description]
 
 ## What's covered
 - Coming soon

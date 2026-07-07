@@ -1,5 +1,5 @@
 # System Design for AI
-Designing scalable AI system architectures
+[One line description]
 
 ## What's covered
 - Coming soon

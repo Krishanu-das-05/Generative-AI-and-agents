@@ -1,5 +1,5 @@
 # Agent Fundamentals
-Core concepts of AI agents — planning, tool use, and memory
+[One line description]
 
 ## What's covered
 - Coming soon

@@ -1,5 +1,5 @@
 # Multi-Agent Research System
-Multi-agent system for automated research with planning, retrieval, and synthesis agents.
+[One line description]
 
 ## What's covered
 - Coming soon

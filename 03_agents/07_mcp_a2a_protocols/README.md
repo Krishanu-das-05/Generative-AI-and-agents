@@ -1,5 +1,5 @@
 # MCP & A2A Protocols
-Model Context Protocol and Agent-to-Agent communication
+[One line description]
 
 ## What's covered
 - Coming soon

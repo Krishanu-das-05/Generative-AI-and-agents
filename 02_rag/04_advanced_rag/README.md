@@ -1,5 +1,5 @@
 # Advanced RAG
-Hybrid search, re-ranking, query transformation, and other advanced techniques
+[One line description]
 
 ## What's covered
 - Coming soon

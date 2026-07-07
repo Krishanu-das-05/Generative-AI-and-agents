@@ -1,5 +1,5 @@
 # Projects
-End-to-end production projects that combine everything from Phase 3.
+End-to-end production projects combining everything from Phase 3.
 
 ## Projects
 | # | Project | Status |

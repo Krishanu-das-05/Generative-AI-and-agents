@@ -1,5 +1,5 @@
 # RAG Evaluation
-Measuring RAG quality with RAGAS and custom metrics
+[One line description]
 
 ## What's covered
 - Coming soon

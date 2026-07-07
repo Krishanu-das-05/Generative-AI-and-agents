@@ -1,5 +1,5 @@
 # LangGraph
-Building stateful agent workflows with LangGraph
+[One line description]
 
 ## What's covered
 - Coming soon

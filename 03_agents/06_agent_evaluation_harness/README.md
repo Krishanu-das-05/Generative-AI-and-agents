@@ -1,5 +1,5 @@
 # Agent Evaluation Harness
-Building evaluation frameworks for agent systems
+[One line description]
 
 ## What's covered
 - Coming soon

@@ -1,5 +1,5 @@
 # Prompt Engineering
-Systematic approaches to crafting effective prompts
+[One line description]
 
 ## What's covered
 - Coming soon

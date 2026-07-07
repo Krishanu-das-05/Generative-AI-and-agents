@@ -1,5 +1,5 @@
 # Chunking Strategies
-Methods for splitting documents into optimal chunks for retrieval
+[One line description]
 
 ## What's covered
 - Coming soon

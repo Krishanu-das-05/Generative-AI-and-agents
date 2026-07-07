@@ -1,5 +1,5 @@
 # RAG — Retrieval Augmented Generation
-Deep dive into building production-grade RAG systems — chunking, embeddings, retrieval, advanced techniques, and evaluation.
+Building production-grade RAG systems.
 
 ## Topics
 | # | Topic | Status |

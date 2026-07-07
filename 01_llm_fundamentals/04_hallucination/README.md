@@ -1,5 +1,5 @@
 # Hallucination
-Understanding why LLMs hallucinate and strategies to mitigate it
+[One line description]
 
 ## What's covered
 - Coming soon

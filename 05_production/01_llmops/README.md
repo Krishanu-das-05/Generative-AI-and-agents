@@ -1,5 +1,5 @@
 # LLMOps
-Operationalizing LLM applications in production
+[One line description]
 
 ## What's covered
 - Coming soon

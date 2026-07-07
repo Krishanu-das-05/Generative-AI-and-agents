@@ -1,5 +1,5 @@
 # Vector Stores & Retrieval
-Building and querying vector databases for RAG systems
+[One line description]
 
 ## What's covered
 - Coming soon

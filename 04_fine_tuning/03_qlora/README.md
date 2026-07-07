@@ -1,5 +1,5 @@
 # QLoRA
-Quantized LoRA for efficient fine-tuning on consumer hardware
+[One line description]
 
 ## What's covered
 - Coming soon

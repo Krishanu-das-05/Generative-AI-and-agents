@@ -1,5 +1,5 @@
 # Observability
-Monitoring and tracing LLM applications with Langfuse and LangSmith
+[One line description]
 
 ## What's covered
 - Coming soon

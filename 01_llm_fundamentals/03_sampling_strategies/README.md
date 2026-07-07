@@ -1,5 +1,5 @@
 # Sampling Strategies
-Temperature, top-k, top-p, and other decoding strategies for text generation
+[One line description]
 
 ## What's covered
 - Coming soon

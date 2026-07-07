@@ -1,5 +1,5 @@
 # Agents
-Building intelligent agents — from fundamentals to multi-agent systems, agentic loops, Hermes function calling, and evaluation harnesses.
+Building intelligent agents and multi-agent systems.
 
 ## Topics
 | # | Topic | Status |

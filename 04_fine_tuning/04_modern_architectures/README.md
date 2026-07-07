@@ -1,5 +1,5 @@
 # Modern Architectures
-MoE, SSM, and other modern LLM architectures
+[One line description]
 
 ## What's covered
 - Coming soon

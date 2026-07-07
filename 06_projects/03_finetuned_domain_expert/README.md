@@ -1,5 +1,5 @@
 # Fine-tuned Domain Expert
-Fine-tuned LLM specialized for a specific domain with evaluation and deployment.
+[One line description]
 
 ## What's covered
 - Coming soon

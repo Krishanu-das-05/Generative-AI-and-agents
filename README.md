@@ -12,15 +12,9 @@ Deep dive into GenAI fundamentals, RAG systems, agentic frameworks, fine-tuning,
 | 05 | Production | 4 | ⏳ Pending |
 | 06 | Projects | 3 | ⏳ Pending |
 
+## Stack
+LangGraph, LangChain, HuggingFace, OpenAI, Anthropic, pgvector, ChromaDB, FastAPI, Langfuse, vLLM
+
 ## How to Run
 pip install -r requirements.txt
 jupyter notebook
-
-## Stack
-- LangGraph, LangChain
-- HuggingFace Transformers
-- OpenAI, Anthropic APIs
-- pgvector, ChromaDB
-- FastAPI
-- Langfuse, LangSmith
-- vLLM

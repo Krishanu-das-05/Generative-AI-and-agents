@@ -1,5 +1,5 @@
 # Production RAG System
-End-to-end production RAG system with chunking, embeddings, retrieval, and evaluation.
+[One line description]
 
 ## What's covered
 - Coming soon

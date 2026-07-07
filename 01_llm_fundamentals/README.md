@@ -1,5 +1,5 @@
 # LLM Fundamentals
-Deep understanding of how LLMs work under the hood — tokenization, context windows, sampling, hallucination, and prompt engineering.
+Deep understanding of how LLMs work under the hood.
 
 ## Topics
 | # | Topic | Status |

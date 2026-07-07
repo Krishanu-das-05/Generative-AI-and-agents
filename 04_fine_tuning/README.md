@@ -1,5 +1,5 @@
 # Fine-Tuning
-From decision framework to LoRA math to QLoRA implementation — when and how to fine-tune LLMs.
+When and how to fine-tune LLMs — LoRA, QLoRA, and modern architectures.
 
 ## Topics
 | # | Topic | Status |
